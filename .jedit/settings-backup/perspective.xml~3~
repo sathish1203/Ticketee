@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE PERSPECTIVE SYSTEM "perspective.dtd">
+<PERSPECTIVE>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE">/home/student/rails_projects/depot/app/controllers/application_controller.rb</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE">/home/student/rails_projects/depot/config/database.yml</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE">/home/student/rails_projects/depot/db/seeds.rb</BUFFER>
+<VIEW PLAIN="FALSE">
+<PANES>
+"/home/student/rails_projects/depot/generate/config/routes.rb" buffer "/home/student/rails_projects/depot/app/controllers/application_controller.rb" buff "/home/student/rails_projects/depot/config/database.yml" buff "/home/student/rails_projects/depot/db/seeds.rb" buff "global" bufferset
+</PANES>
+<GEOMETRY X="447" Y="203" WIDTH="753" HEIGHT="526" EXT_STATE="0" />
+</VIEW>
+</PERSPECTIVE>

@@ -1,0 +1,11 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+<!DOCTYPE KILLRING SYSTEM "killring.dtd">
+<KILLRING>
+<ENTRY>scaffold :product</ENTRY>
+<ENTRY>w:</ENTRY>
+<ENTRY>r</ENTRY>
+<ENTRY>y</ENTRY>
+<ENTRY>db/development.sqlite3</ENTRY>
+<ENTRY>sqlite3</ENTRY>
+<ENTRY>b/development.sqlite3</ENTRY>
+</KILLRING>

@@ -1,0 +1,33 @@
+[vfs.browser.path]
+/home/student/rails_projects/depot/db
+/home/student/rails_projects/depot
+/home/student/rails_projects/depot/app
+/home/student/rails_projects/depot/app/models
+/home/student/rails_projects/depot/config
+/home/student/rails_projects
+/home/student
+/home
+/home/student/rails_projects/depot/app/controllers
+/home/student/rails_projects/depot/app/views/admin
+/home/student/rails_projects/depot/app/views
+/home/student/rails_projects/depot/db/migrate
+/root
+[vfs.browser.filter]
+*\[^~#\]
+[action]
+save
+prev-char
+next-line
+prev-line
+delete
+next-char
+paste
+open-file
+insert-newline-indent
+select-next-char
+backspace
+insert-tab-indent
+plugin-options
+[clipboard]
+t.column :title,\n:string\nt.column :description, :text\nt.column :image_url,\n:string\n
+scaffold :product\n

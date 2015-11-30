@@ -1,0 +1,41 @@
+[vfs.browser.path]
+/home/student/rails_projects/depot/config
+/home/student/rails_projects/depot
+/home/student/rails_projects
+/home/student/rails_projects/depot/app
+/home/student/rails_projects/depot/app/controllers
+/home/student/rails_projects/depot/generate/config
+/home/student
+/home/student/rails_projects/depot/generate/app/controllers
+/home/student/rails_projects/depot/generate/app
+/home/student/rails_projects/depot/generate
+/home/student/rails_projects/depot/db
+/home/student/rails_projects/depot/db/migrate
+/home/student/rails_projects/depot/app/models
+/home
+/home/student/rails_projects/depot/app/views/admin
+/home/student/rails_projects/depot/app/views
+/root
+[vfs.browser.filter]
+*\[^~#\]
+[action]
+save
+delete
+next-line
+insert-tab-indent
+select-next-line
+paste
+prev-line
+insert-newline-indent
+open-file
+new-file
+copy-append
+backspace
+prev-char
+next-char
+select-next-char
+plugin-options
+[clipboard]
+adapter: mysql\ndatabase: depot_development\nusername: root\npassword:\nhost: localhost\n
+t.column :title,\n:string\nt.column :description, :text\nt.column :image_url,\n:string\n
+scaffold :product\n

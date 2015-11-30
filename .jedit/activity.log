@@ -1,0 +1,200 @@
+Log file created on Sun Nov 29 07:10:06 PST 2015
+IMPORTANT:
+Because updating this file after every log message would kill
+performance, it will be *incomplete* unless you invoke the
+Utilities->Troubleshooting->Update Activity Log on Disk command!
+7:10:06 AM [main] [message] Log: When reporting bugs, please include the following information:
+7:10:06 AM [main] [message] Log: java.version=1.6.0_33
+7:10:06 AM [main] [message] Log: java.vm.version=23.25-b01
+7:10:06 AM [main] [message] Log: java.runtime.version=1.6.0_33-b33
+7:10:06 AM [main] [message] Log: java.vendor=Sun Microsystems Inc.
+7:10:06 AM [main] [message] Log: java.compiler=null
+7:10:06 AM [main] [message] Log: os.name=Linux
+7:10:06 AM [main] [message] Log: os.version=3.13.0-32-generic
+7:10:06 AM [main] [message] Log: os.arch=i386
+7:10:06 AM [main] [message] Log: user.home=/root
+7:10:06 AM [main] [message] Log: java.home=/usr/lib/jvm/java-6-openjdk-i386/jre
+7:10:06 AM [main] [message] Log: java.class.path=:/usr/share/jedit/jedit.jar
+7:10:06 AM [main] [debug] MiscUtilities: Saving backup of file "/root/.jedit/activity.log" to "/root/.jedit/settings-backup/activity.log~1~"
+7:10:06 AM [main] [notice] jEdit: jEdit version 4.4.2
+7:10:06 AM [main] [message] jEdit: Settings directory is /root/.jedit
+7:10:06 AM [main] [message] jEdit: jEdit home directory is /usr/share/jedit
+7:10:06 AM [main] [debug] SplashScreen: init:18ms
+7:10:06 AM [main] [debug] SplashScreen: init system properties:8ms
+7:10:06 AM [main] [message] BeanShell: Beanshell Init
+7:10:06 AM [main] [debug] SplashScreen: init beanshell:46ms
+7:10:06 AM [main] [debug] SplashScreen: loading site properties:6ms
+7:10:06 AM [main] [debug] SplashScreen: loading user properties:4ms
+7:10:06 AM [main] [debug] GUIUtilities: Icon theme set to: tango
+7:10:06 AM [main] [debug] GUIUtilities: Loading icon theme from: jeditresource:/org/gjt/sp/jedit/icons/themes/tango/
+7:10:06 AM [main] [debug] SplashScreen: init GUI:15ms
+7:10:06 AM [main] [debug] EditServer: jEdit server started on port 38731
+7:10:06 AM [main] [debug] EditServer: Authorization key is 1132286343
+7:10:06 AM [main] [debug] SplashScreen: init server:12ms
+7:10:06 AM [main] [debug] SplashScreen: init look and feel:5ms
+7:10:06 AM [main] [debug] SplashScreen: init VFS Manager:7ms
+7:10:06 AM [main] [debug] ActionSet: Loading actions from jar:file:/usr/share/jedit/jedit.jar!/org/gjt/sp/jedit/actions.xml
+7:10:06 AM [main] [debug] DockableWindowManager: Loading dockables from jar:file:/usr/share/jedit/jedit.jar!/org/gjt/sp/jedit/dockables.xml
+7:10:06 AM [AWT-EventQueue-1] [debug] EditBus: SearchSettingsChanged[source=null]
+7:10:06 AM [main] [debug] SplashScreen: init resources:96ms
+7:10:06 AM [main] [notice] jEdit: Loading plugins from /usr/share/jedit/jars
+7:10:06 AM [main] [notice] jEdit: Loading plugins from /root/.jedit/jars
+7:10:06 AM [main] [debug] SplashScreen: init plugins:8ms
+7:10:06 AM [main] [message] HistoryModel: Loading history
+7:10:06 AM [main] [debug] SplashScreen: init history model:5ms
+7:10:06 AM [main] [message] BufferHistory: Loading /root/.jedit/recent.xml
+7:10:06 AM [main] [debug] SplashScreen: init buffer history:8ms
+7:10:06 AM [main] [message] KillRing: Loading /root/.jedit/killring.xml
+7:10:06 AM [main] [debug] SplashScreen: init killring:8ms
+7:10:06 AM [main] [debug] jEdit: SOCKS proxy disabled
+7:10:06 AM [main] [debug] jEdit: HTTP proxy disabled
+7:10:06 AM [AWT-EventQueue-1] [debug] EditBus: PropertiesChanged[source=null]
+7:10:06 AM [main] [debug] SplashScreen: init various properties:14ms
+7:10:06 AM [main] [message] jEdit: Loading mode catalog file /usr/share/jedit/modes/catalog
+7:10:06 AM [main] [message] jEdit: Loading mode catalog file /root/.jedit/modes/catalog
+7:10:06 AM [main] [debug] SplashScreen: init modes:31ms
+7:10:06 AM [main] [debug] SplashScreen: activate plugins:30ms
+7:10:07 AM [main] [debug] Macros: Registered beanshell macro handler
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: DynamicMenuChanged[menu=macros,source=null]
+7:10:07 AM [main] [message] BeanShell: Running script /usr/share/jedit/startup/startup.bsh
+7:10:07 AM [main] [debug] String: BeanShell interpreter version 2.0b4-jedit
+7:10:07 AM [main] [debug] SplashScreen: init macros:71ms
+7:10:07 AM [main] [debug] SplashScreen: run startup scripts:10ms
+7:10:07 AM [main] [debug] SplashScreen: run startup scripts:14ms
+7:10:07 AM [AWT-EventQueue-1] [message] PerspectiveManager: Loading /root/.jedit/perspective.xml
+7:10:07 AM [AWT-EventQueue-1] [notice] jEdit$3: Loading edit mode /usr/share/jedit/modes/ruby.xml
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=application_controller.rb (/home/student/rails_projects/depot/app/controllers/)]
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=application_controller.rb (/home/student/rails_projects/depot/app/controllers/)]
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=application_controller.rb (/home/student/rails_projects/depot/app/controllers/)]
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=application_controller.rb (/home/student/rails_projects/depot/app/controllers/)]
+7:10:07 AM [AWT-EventQueue-1] [notice] jEdit$3: Loading edit mode /usr/share/jedit/modes/yaml.xml
+7:10:07 AM [AWT-EventQueue-1] [notice] jEdit$3: Loading edit mode /usr/share/jedit/modes/php.xml
+7:10:07 AM [AWT-EventQueue-1] [notice] jEdit$3: Loading edit mode /usr/share/jedit/modes/xml.xml
+7:10:07 AM [AWT-EventQueue-1] [notice] jEdit$3: Loading edit mode /usr/share/jedit/modes/html.xml
+7:10:07 AM [AWT-EventQueue-1] [notice] jEdit$3: Loading edit mode /usr/share/jedit/modes/css.xml
+7:10:07 AM [AWT-EventQueue-1] [notice] jEdit$3: Loading edit mode /usr/share/jedit/modes/javascript.xml
+7:10:07 AM [AWT-EventQueue-1] [notice] jEdit$3: Loading edit mode /usr/share/jedit/modes/javascript.xml
+7:10:07 AM [AWT-EventQueue-1] [notice] jEdit$3: Loading edit mode /usr/share/jedit/modes/xml.xml
+7:10:07 AM [AWT-EventQueue-1] [notice] jEdit$3: Loading edit mode /usr/share/jedit/modes/css.xml
+7:10:07 AM [AWT-EventQueue-1] [notice] jEdit$3: Loading edit mode /usr/share/jedit/modes/javascript.xml
+7:10:07 AM [AWT-EventQueue-1] [notice] jEdit$3: Loading edit mode /usr/share/jedit/modes/javascript.xml
+7:10:07 AM [AWT-EventQueue-1] [notice] jEdit$3: Loading edit mode /usr/share/jedit/modes/xml.xml
+7:10:07 AM [AWT-EventQueue-1] [notice] jEdit$3: Loading edit mode /usr/share/jedit/modes/php.xml
+7:10:07 AM [AWT-EventQueue-1] [notice] jEdit$3: Loading edit mode /usr/share/jedit/modes/xml.xml
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=database.yml (/home/student/rails_projects/depot/config/)]
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=database.yml (/home/student/rails_projects/depot/config/)]
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=database.yml (/home/student/rails_projects/depot/config/)]
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=database.yml (/home/student/rails_projects/depot/config/)]
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=seeds.rb (/home/student/rails_projects/depot/db/)]
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=seeds.rb (/home/student/rails_projects/depot/db/)]
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=seeds.rb (/home/student/rails_projects/depot/db/)]
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=seeds.rb (/home/student/rails_projects/depot/db/)]
+7:10:07 AM [AWT-EventQueue-1] [notice] jEdit$3: Loading edit mode /usr/share/jedit/modes/text.xml
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Untitled-1 (/home/student/rails_projects/depot/generate/config/)]
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=Untitled-1 (/home/student/rails_projects/depot/generate/config/)]
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=Untitled-1 (/home/student/rails_projects/depot/generate/config/)]
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=Untitled-1 (/home/student/rails_projects/depot/generate/config/)]
+7:10:07 AM [AWT-EventQueue-1] [debug] BufferSet: 28656525: addBufferSetListener org.gjt.sp.jedit.EditPane[inactive]
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[inactive]]
+7:10:07 AM [AWT-EventQueue-1] [debug] BufferSet: 28656525 addBufferAt(Untitled-1 (/home/student/rails_projects/depot/generate/config/),-1)
+7:10:07 AM [AWT-EventQueue-1] [debug] BufferSet: 28656525: Buffer added Untitled-1 (/home/student/rails_projects/depot/generate/config/) at 0
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: EditPaneUpdate[what=CREATED,source=org.gjt.sp.jedit.EditPane[inactive]]
+7:10:07 AM [AWT-EventQueue-1] [debug] BufferSet: 28656525 addBufferAt(Untitled-1 (/home/student/rails_projects/depot/generate/config/),0)
+7:10:07 AM [AWT-EventQueue-1] [debug] BufferSet: 28656525 addBufferAt(application_controller.rb (/home/student/rails_projects/depot/app/controllers/),1)
+7:10:07 AM [AWT-EventQueue-1] [debug] BufferSet: 28656525: Buffer added application_controller.rb (/home/student/rails_projects/depot/app/controllers/) at 0
+7:10:07 AM [AWT-EventQueue-1] [debug] BufferSetManager: removeBuffer(BufferSet[nbBuffers=2],Untitled-1 (/home/student/rails_projects/depot/generate/config/))
+7:10:07 AM [AWT-EventQueue-1] [debug] BufferSet: 28656525: Buffer removed Untitled-1 (/home/student/rails_projects/depot/generate/config/)
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+7:10:07 AM [AWT-EventQueue-1] [debug] BufferSetManager: Buffer:Untitled-1 (/home/student/rails_projects/depot/generate/config/) is in no bufferSet anymore, closing it
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=CLOSING,view=null,source=Untitled-1 (/home/student/rails_projects/depot/generate/config/)]
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=CLOSED,view=null,source=Untitled-1 (/home/student/rails_projects/depot/generate/config/)]
+7:10:07 AM [AWT-EventQueue-1] [debug] BufferSet: 28656525 addBufferAt(database.yml (/home/student/rails_projects/depot/config/),2)
+7:10:07 AM [AWT-EventQueue-1] [debug] BufferSet: 28656525: Buffer added database.yml (/home/student/rails_projects/depot/config/) at 1
+7:10:07 AM [AWT-EventQueue-1] [debug] BufferSet: 28656525 addBufferAt(seeds.rb (/home/student/rails_projects/depot/db/),3)
+7:10:07 AM [AWT-EventQueue-1] [debug] BufferSet: 28656525: Buffer added seeds.rb (/home/student/rails_projects/depot/db/) at 2
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: ViewUpdate[what=CREATED,source=org.gjt.sp.jedit.View[active]]
+7:10:07 AM [AWT-EventQueue-1] [debug] EditBus: EditorStarted[source=null]
+7:10:07 AM [jEdit I/O #1] [debug] WorkThread: Work request thread starting [jEdit I/O #1]
+7:10:07 AM [jEdit I/O #2] [debug] WorkThread: Work request thread starting [jEdit I/O #2]
+7:10:07 AM [jEdit I/O #3] [debug] WorkThread: Work request thread starting [jEdit I/O #3]
+7:10:07 AM [jEdit I/O #4] [debug] WorkThread: Work request thread starting [jEdit I/O #4]
+7:10:07 AM [AWT-EventQueue-1] [message] jEdit: Startup complete
+7:10:08 AM [AWT-EventQueue-1] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+7:10:08 AM [AWT-EventQueue-1] [debug] JEditTextArea: InputMethodSupport is activated
+7:10:08 AM [AWT-EventQueue-1] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+7:10:08 AM [AWT-EventQueue-1] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+7:10:09 AM [AWT-EventQueue-1] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+7:10:36 AM [AWT-EventQueue-1] [debug] MiscUtilities: Saving backup of file "/root/.jedit/perspective.xml" to "/root/.jedit/settings-backup/perspective.xml~1~"
+7:10:51 AM [AWT-EventQueue-1] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+7:10:52 AM [AWT-EventQueue-1] [debug] ActionSet: Loading actions from jar:file:/usr/share/jedit/jedit.jar!/org/gjt/sp/jedit/browser.actions.xml
+7:11:16 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:11:16 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:11:17 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:11:17 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:11:38 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:11:38 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:11:40 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:11:40 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:11:42 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:11:43 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:12:07 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:12:08 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:12:08 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:12:11 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:12:12 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:12:19 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:12:19 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:12:20 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:12:20 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:12:21 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:12:21 AM [AWT-EventQueue-1] [debug] EditBus: VFSPathSelected[source=org.gjt.sp.jedit.View[active]]
+7:12:21 AM [AWT-EventQueue-1] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+7:12:21 AM [AWT-EventQueue-1] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+7:12:21 AM [AWT-EventQueue-1] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+7:12:21 AM [AWT-EventQueue-1] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+7:12:24 AM [AWT-EventQueue-1] [debug] EditBus: PositionChanging[what=POSITION_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+7:12:25 AM [AWT-EventQueue-1] [debug] EditBus: PositionChanging[what=POSITION_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+7:12:25 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=DIRTY_CHANGED,view=null,source=database.yml (/home/student/rails_projects/depot/config/)]
+7:12:27 AM [AWT-EventQueue-1] [debug] EditBus: PositionChanging[what=POSITION_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+7:12:36 AM [jEdit I/O #4] [debug] WorkThread: Running in work thread: [id=1,run=org.gjt.sp.jedit.bufferio.BufferAutosaveRequest[database.yml (/home/student/rails_projects/depot/config/)]]
+7:12:37 AM [AWT-EventQueue-1] [debug] EditBus: PositionChanging[what=POSITION_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+7:12:38 AM [AWT-EventQueue-1] [debug] EditBus: RegisterChanged[register=%,source=null]
+7:12:38 AM [AWT-EventQueue-1] [debug] EditBus: PositionChanging[what=POSITION_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+7:12:39 AM [AWT-EventQueue-1] [debug] EditBus: PositionChanging[what=POSITION_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+7:12:40 AM [AWT-EventQueue-1] [debug] EditBus: RegisterChanged[register=%,source=null]
+7:12:46 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=SAVING,view=org.gjt.sp.jedit.View[active],source=database.yml (/home/student/rails_projects/depot/config/)]
+7:12:46 AM [AWT-EventQueue-1] [debug] FileVFS: /home/student/rails_projects/depot/config/database.yml has permissions 0644
+7:12:46 AM [jEdit I/O #1] [debug] WorkThread: Running in work thread: [id=2,run=org.gjt.sp.jedit.bufferio.BufferSaveRequest[database.yml (/home/student/rails_projects/depot/config/)]]
+7:12:46 AM [jEdit I/O #1] [debug] MiscUtilities: Saving backup of file "/home/student/rails_projects/depot/config/database.yml" to "/home/student/rails_projects/depot/config/database.yml~"
+7:12:46 AM [AWT-EventQueue-1] [debug] EditBus: VFSUpdate[path=/home/student/rails_projects/depot/config,source=null]
+7:12:46 AM [AWT-EventQueue-1] [debug] EditBus: VFSUpdate[path=/home/student/rails_projects/depot/config/#database.yml#save#,source=null]
+7:12:46 AM [AWT-EventQueue-1] [debug] EditBus: VFSUpdate[path=/home/student/rails_projects/depot/config/database.yml,source=null]
+7:12:46 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=database.yml (/home/student/rails_projects/depot/config/)]
+7:12:46 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=DIRTY_CHANGED,view=org.gjt.sp.jedit.View[active],source=database.yml (/home/student/rails_projects/depot/config/)]
+7:12:46 AM [AWT-EventQueue-1] [debug] EditBus: BufferUpdate[what=SAVED,view=org.gjt.sp.jedit.View[active],source=database.yml (/home/student/rails_projects/depot/config/)]
+7:12:52 AM [AWT-EventQueue-1] [debug] EditBus: PositionChanging[what=POSITION_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+7:12:54 AM [AWT-EventQueue-1] [debug] EditBus: PositionChanging[what=POSITION_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+7:12:58 AM [AWT-EventQueue-1] [debug] EditBus: EditorExitRequested[source=org.gjt.sp.jedit.View[active]]
+7:12:58 AM [AWT-EventQueue-1] [message] PerspectiveManager: Saving /root/.jedit/perspective.xml
+7:12:58 AM [AWT-EventQueue-1] [debug] MiscUtilities: Saving backup of file "/root/.jedit/perspective.xml" to "/root/.jedit/settings-backup/perspective.xml~1~"
+7:12:58 AM [AWT-EventQueue-1] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+7:12:58 AM [AWT-EventQueue-1] [debug] EditBus: EditorExiting[source=null]
+7:12:58 AM [AWT-EventQueue-1] [debug] EditBus: ViewUpdate[what=CLOSED,source=org.gjt.sp.jedit.View[active]]
+7:12:58 AM [AWT-EventQueue-1] [debug] EditBus: DynamicMenuChanged[menu=recent-files,source=null]
+7:12:58 AM [AWT-EventQueue-1] [debug] EditBus: EditPaneUpdate[what=DESTROYED,source=org.gjt.sp.jedit.EditPane[active]]
+7:12:58 AM [AWT-EventQueue-1] [debug] BufferSet: 28656525: Buffer removed application_controller.rb (/home/student/rails_projects/depot/app/controllers/)
+7:12:58 AM [AWT-EventQueue-1] [debug] BufferSetManager: Buffer:application_controller.rb (/home/student/rails_projects/depot/app/controllers/) is in no bufferSet anymore, closing it
+7:12:58 AM [AWT-EventQueue-1] [debug] BufferSet: 28656525: Buffer removed database.yml (/home/student/rails_projects/depot/config/)
+7:12:58 AM [AWT-EventQueue-1] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+7:12:58 AM [AWT-EventQueue-1] [debug] EditBus: EditPaneUpdate[what=BUFFER_CHANGED,source=org.gjt.sp.jedit.EditPane[active]]
+7:12:58 AM [AWT-EventQueue-1] [debug] BufferSetManager: Buffer:database.yml (/home/student/rails_projects/depot/config/) is in no bufferSet anymore, closing it
+7:12:58 AM [AWT-EventQueue-1] [debug] BufferSet: 28656525: Buffer removed seeds.rb (/home/student/rails_projects/depot/db/)
+7:12:58 AM [AWT-EventQueue-1] [debug] BufferSetManager: Buffer:seeds.rb (/home/student/rails_projects/depot/db/) is in no bufferSet anymore, closing it
+7:12:58 AM [AWT-EventQueue-1] [message] HistoryModel: Saving history
+7:12:58 AM [AWT-EventQueue-1] [debug] MiscUtilities: Saving backup of file "/root/.jedit/history" to "/root/.jedit/settings-backup/history~1~"
+7:12:58 AM [AWT-EventQueue-1] [message] BufferHistory: Saving /root/.jedit/recent.xml
+7:12:58 AM [AWT-EventQueue-1] [debug] MiscUtilities: Saving backup of file "/root/.jedit/recent.xml" to "/root/.jedit/settings-backup/recent.xml~1~"
+7:12:58 AM [AWT-EventQueue-1] [message] KillRing: Saving /root/.jedit/killring.xml
+7:12:58 AM [AWT-EventQueue-1] [debug] MiscUtilities: Saving backup of file "/root/.jedit/killring.xml" to "/root/.jedit/settings-backup/killring.xml~1~"
+7:12:58 AM [AWT-EventQueue-1] [debug] MiscUtilities: Saving backup of file "/root/.jedit/properties" to "/root/.jedit/settings-backup/properties~1~"

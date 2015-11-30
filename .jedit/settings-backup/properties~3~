@@ -1,0 +1,33 @@
+#jEdit properties
+#Sun Nov 29 06:30:41 PST 2015
+view.width=753
+plugin-options.height=200
+vfs.browser.status.width=100
+view.height=526
+search.beanshell.toggle=false
+view.y=203
+view.x=447
+firstTime=false
+vfs.browser.modified.width=100
+plugin-options.y=-37
+plugin-options.x=-211
+plugin-options.splitter=169
+helpviewer.extendedState=1
+vfs.browser.dialog.width=529
+search.ignoreCase.toggle=false
+search.regexp.toggle=false
+plugin-options.width=300
+vfs.browser.horizontalSplitter=83
+vfs.browser.dialog.height=411
+vfs.browser.size.width=100
+vfs.browser.last-filter=*[^~\#]
+helpviewer.height=530
+view.extendedState=0
+plugin-options.last=no-plugins
+helpviewer.width=760
+vfs.browser.type.width=100
+search.wrap.toggle=false
+vfs.browser.dialog.y=9
+vfs.browser.dialog.x=81
+helpviewer.y=50
+helpviewer.x=65
